@@ -610,3 +610,34 @@ http://localhost:3100
 
 Entre com o perfil escolhido como responsável e consulte o novo número.
 
+Substitua a seção hero atual por esta:
+
+Index html
+```
+<section class="hero">
+  <p class="eyebrow">PORTAL DE PEDIDOS</p>
+
+  <h1>Consultar ou cadastrar pedidos</h1>
+
+  <p>
+    Consulte pedidos existentes ou cadastre um novo pedido.
+  </p>
+
+  <a
+    class="primary cadastro-link"
+    href="cadastrar.html"
+  >
+    Cadastrar novo pedido
+  </a>
+</section>
+```
+
+styles.css
+
+```
+.cadastro-link {
+  display: inline-block;
+  margin-top: 12px;
+  text-decoration: none;
+}
+```
