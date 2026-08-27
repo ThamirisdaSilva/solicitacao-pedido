@@ -159,5 +159,35 @@
         "evento": "Análise iniciada"
       }
     ]
+  },
+  {
+    "numero": "2001",
+    "titular": "Thamiris",
+    "tipo": "Pedido de declaração",
+    "estado": "Em análise",
+    "dataRegisto": "2026-08-11",
+    "delegacao": "Beira",
+    "responsavel": "paulo",
+    "historico": [
+      {
+        "data": "2026-08-11",
+        "evento": "Pedido registado"
+      }
+    ]
+  },
+  {
+    "numero": "2005",
+    "titular": "Thiago Adriano",
+    "tipo": "Atualização de dados",
+    "estado": "Em análise",
+    "dataRegisto": "2026-08-26",
+    "delegacao": "Matola",
+    "responsavel": "celina",
+    "historico": [
+      {
+        "data": "2026-08-26",
+        "evento": "Pedido registado"
+      }
+    ]
   }
 ]

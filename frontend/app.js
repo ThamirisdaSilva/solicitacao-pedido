@@ -1,4 +1,3 @@
-alert("Bem vindos ao Brasil!");
 
 const state = { token: null, user: null, pedido: null };
 
